@@ -1,0 +1,6 @@
+@HappyPayment.API_HostAddress = http://localhost:5095
+
+GET {{HappyPayment.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
