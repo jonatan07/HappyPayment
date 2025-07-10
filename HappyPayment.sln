@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyPayment.Infrastructure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyPayment.Presentation", "HappyPayment.Presentation\HappyPayment.Presentation.csproj", "{04435DAD-F23C-CBC3-CAB9-1C119D0EF673}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyPayment.Test", "HappyPayment.Test\HappyPayment.Test.csproj", "{B1D7FE8F-B077-4908-B469-E0C089823FE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{04435DAD-F23C-CBC3-CAB9-1C119D0EF673}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04435DAD-F23C-CBC3-CAB9-1C119D0EF673}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04435DAD-F23C-CBC3-CAB9-1C119D0EF673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D7FE8F-B077-4908-B469-E0C089823FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D7FE8F-B077-4908-B469-E0C089823FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D7FE8F-B077-4908-B469-E0C089823FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D7FE8F-B077-4908-B469-E0C089823FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{7C002F62-CC35-4429-A1B4-A02737AD3353} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{0A1172B9-A142-47B4-A1AF-3554D2D58E9D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{04435DAD-F23C-CBC3-CAB9-1C119D0EF673} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{B1D7FE8F-B077-4908-B469-E0C089823FE8} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F223144E-2493-49A1-8E15-F5D0CB878C24}
