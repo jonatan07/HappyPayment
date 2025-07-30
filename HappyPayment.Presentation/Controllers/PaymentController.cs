@@ -8,6 +8,11 @@ namespace HappyPayment.Presentation.Controllers
     [ApiController]
     public class PaymentController : ControllerBase
     {
+        private readonly ILogger<PaymentController> _logger;
+        public PaymentController(ILogger<PaymentController> logger)
+        {
+            _logger = logger;
+        }
         [HttpPost("Pay")]
         public IActionResult Pay(PaymentData paymentData)
         {
