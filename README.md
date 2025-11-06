@@ -30,6 +30,6 @@ Este proyecto está bajo la licencia MIT — ver [LICENSE](LICENSE) para más de
 ## 👤 Autor
 **Jonatan Delgado Valdez**  
 💼 Solution Architect / .NET Specialist  
-📧 jonatan.dev@example.com  
+📧 jonatandelgadovaldez@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/jonatan-delgado-valdez) | [GitHub](https://github.com/jonatan07)
 
